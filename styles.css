@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+}
+
+main {
+    background: black;
+    display: flex;
+
+}
+
+h1 {
+    position: absolute;
+    width: 827px;
+    height: 352px;
+    top: 156px;
+    color: aliceblue;
+    font-weight: 600;
+    font-size: 125px;
+    left: 256px;
+}
+
+img {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    margin-left: 485px;
+    height: 985px;
+
+}
